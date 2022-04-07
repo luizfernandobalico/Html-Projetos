@@ -1,0 +1,7 @@
+Importante
+***********
+Nomes não podem ter acentos
+Nomes com acentos podem ocasionar erros no Provedor. 
+
+Os Arquivos .txt são os códigos que toda página de um Site deve possuir nunca perder estes arquivos.
+

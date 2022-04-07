@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+		<title>Imobiliaria Sousa</title>
+	</head>
+	<body>
+		
+		
+		
+		<table width="1127" border="0">
+			<tr>
+				<td width="173"><img src="img/casa.jpg"  width="158" height="130"></td>
+				<td width="774"><img src="img/logocarro.jpg"  width="759" height="180"></td>
+				<td width="158"><img src="img/abra.jpg"  width="158" height="130">
+					
+				</td>
+			</tr>
+		</table>
+		
+		<!-- <h1> botões </h1> -->
+		<table width="923" border="0">
+			<tr >
+				<td width="179" height="235"><table width="1123" border="0"> 
+			
+			<tr>
+			<td width="160">
+			<a href="Empresa.html"><img src="img/button1A.jpg" width="169" height="24"></a>
+				<img src="img/Branco.jpg" width="169" height="14">
+			<a href="home.html"><img src="img/button1D.jpg" width="169" height="24" alt="Pagina Inicial"></a>
+				<img src="img/Branco.jpg" width="169" height="14">
+			<a href="locação.html"><img src="img/button2D.jpg" width="169" height="24" alt="imovel"></a>
+				<img src="img/Branco.jpg" width="169" height="14">
+			<a href="Vendas.html"><img src="img/button10.jpg" width="169" height="24" alt="imovel"></a>
+					<br><br>
+			<h3>
+			<br> NOS AJUDE
+			<br>ENVIANDO
+			<br> O SEU			
+			
+			<br><a href="">FECHBACK </a> <br>
+			
+				
+				
+			
+				
+				</td>	
+	
+			<td width="482" height="180"><center><h1 style="color: red;">COMUNICADO IMPORTANTE</h1>
+Prezados Clientes, Amigos e Colaboradores.
+
+Novamente estamos enfrentando situações nunca vistas, com a necessidade de cuidados emergências no que diz respeito à vida. Sem apreciar questões políticas, estamos preocupados com a evolução dos casos de mortes em nosso país em decorrência da doença, que se mostra fora de controle.
+
+A falta do isolamento social, o uso incorreto dos itens de proteção e aglomeração das pessoas por motivos diversos, ainda são os fatores de maior contágio, e as medidas para tentativa de conter esse avanço, prejudicam todos os seguimentos da economia, mas, nesse momento entendemos serem necessárias, para a manutenção das condições mínimas de atendimento dos que necessitam de socorro na rede hospitalar.
+
+O prédio, onde a SOUZA está sediada, como sendo exclusivamente comercial, em reunião na data de ontem, decidiu pelo fechamento total durante o feriado decretado, assim, não será possível qualquer tipo de atendimento, mesmo que parcial, como estamos fazendo atualmente.
+
+Por essa razão, a SOUZA Imóveis & Condomínios, durante o período de 26/03/2021 a 05/04/2021, cumprirá decreto da Prefeitura de São Paulo que determinou o feriado prolongado como medida para conter o avanço da Covid-19.
+
+Salientamos que nenhum serviço prestado aos nossos clientes será afetado, visto que estamos preparando todos os departamentos para que possam entregar os itens que se fizerem necessários, antes dos prazos comumente praticados.
+
+Em relação a emissão de 2ª Via de Boletos, os condôminos tem as instruções disponíveis no site da SOUZA (www.souzaimoveis.com.br).
+
+Para os demais compromissos, em relação a contas a serem pagas, a SOUZA já está em contato com as empresas para anteciparem o envio dos boletos que terão vencimento nesse período, e as eventualidades, deverão ser tratadas após o feriado.
+
+Esperamos contar com a compreensão de todos e antecipadamente agradecemos.
+<br>
+<br>
+Atenciosamente
+DIREÇÂO SOUZA IMOVEIS
+
+</center>
+
+			<td width="158"><img src="img/bradesco.jpg" width="158" height="130"><img src="img/Santander.png" width="160" height="200"><table width="162" height="380" border="3">
+	<tr>
+		<td><center><h4>
+			TE DAMOS<br><br> O MENOR PREÇO <br><br>
+				COM O <br><br><br>MELHOR<br><br><br>ATENDIMENTO</h4></center>
+			</td>
+			
+			</tr>
+
+			</table>
+
+
+			
+			</div>
+	</body>
+</html>
